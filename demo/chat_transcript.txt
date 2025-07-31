@@ -1,0 +1,19 @@
+User: Hi, I’m having surgery next week at 8 am, when should I stop eating and drinking before the procedure?
+Bot: Based on the guidelines provided, it’s generally recommended that you don’t eat after midnight. However, you can continue to drink clear fluids such as water, pulp-free juice (like apple or cranberry), sports drinks, black tea, or coffee until 3 hours before your surgery time.
+
+For your specific situation, since your surgery is at 8 am, you should stop eating after midnight and stop drinking clear fluids by 5:00 am the next day. This will ensure that you’re fasting for the recommended amount of time to minimize the risk of aspiration during anesthesia.
+
+Remember to take any prescribed medications with sips of water as instructed by your doctor or nurse practitioner.
+
+This is not medical advice. Always follow your surgical team’s instructions.
+
+---
+
+User: Hi, I’m having surgery next week at 8 am, when should I stop eating and drinking before the procedure?
+Bot: Based on the guidelines provided, it’s generally recommended that you don’t eat after midnight. However, you can continue to drink clear fluids such as water, pulp-free juice (like apple or cranberry), sports drinks, black tea, or coffee until 2 hours before your surgery time.
+
+For your specific situation, since your surgery is at 8 am, you should stop eating after midnight and stop drinking clear fluids by 6:00 am the next day. This will ensure that you’re fasting for the recommended amount of time to minimize the risk of aspiration during anesthesia.
+
+Remember to take any prescribed medications with sips of water as instructed by your doctor or nurse practitioner.
+
+This is not medical advice. Always follow your surgical team’s instructions.
